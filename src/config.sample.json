@@ -6,7 +6,7 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
+      "url": "www.google.com",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
